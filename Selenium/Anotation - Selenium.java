@@ -16,7 +16,7 @@ public class ZadatakSB_13_01_2023 {
 
     //Prethodni zadatak za dodavanje knjiga uraditi koristeci Anotacije.
     // Da jedan test bude sa dodavanjem jedne knjige,
-    // drugi test sa dodavanjem dve knjige, treci sa tri itd.
+    // drugi test sa dodavanjem dve knjige.
 
     WebDriver driver;
 
